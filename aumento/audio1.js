@@ -117,7 +117,7 @@
     <!-- Cole o link do Seu áudio Abaixo-->
     <audio class="plyr" src="https://s3.fr-par.scw.cloud/typebot/public/typebots/l605grppi2ztgn52sfultzyp/blocks/fltdss8oy5nb13wmeuutfm1i?v=1689456487575"></audio>
     <!-- Cole o link da Sua imagem Abaixo-->
-    <img src="https://i.postimg.cc/pXxcXRP5/Vinicius-Destefani-Sanar.jpg" alt="Imagem">
+    <img src="https://i.postimg.cc/nhrM2rRB/Vinicius-Destefani-Sanar.png" alt="Imagem">
     <div class="microphone-icon">
       <i class="fas fa-microphone"></i>
     </div>
